@@ -55,7 +55,7 @@
 [花薪C](https://itunes.apple.com/cn/app/hua-xin/id1123416165?mt=8)
 [花薪闪借](https://itunes.apple.com/cn/app/花薪闪借/id1251255476?mt=8)(备注:独立借钱模块,重构流程)
 [花薪S](https://fir.im/huaxinSV2Test) (企业账户发布)  
-`​项目职能：负责这三个App开发至上线的所有工作,包括但不限于:`  
+`项目职能：负责这三个App开发至上线的所有工作,包括但不限于:` 
 1. 构建项目的整体框架,数据层/网络层/工具/视图封装/VC storyboard/APNS
 2. 代码/版本管理及验收检查
 3. bug 修复
