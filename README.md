@@ -14,17 +14,17 @@
 
 ## 工作经历  
 1. `公司`: 深圳刷宝科技有限公司
-   `时间`: 2015年7月-至今
-   `职位`: iOS leader
-  + 负责组建iOS团队,制定iOS开发规范,辅助移动研发总监制定团队协作规范  
+   `时间`: 2015年7月-至今  
+   `职位`: iOS leader  
+  + 负责组建iOS团队,制定iOS开发规范,辅助移动研发总监制定团队协作规范  
   + 负责淘金家app架构设计,需求研发以及上线流程  
   + 负责花薪C/花薪S app整体研发工作  
   + 负责花薪闪借app 研发  
   + 使用Swift重构淘金家app  
 
-2. `公司`: 深圳金蝶国际软件集团有限公司
-   `时间`: 2014年11月-2015年7月
-   `职位`: iOS开发工程师  
+2. `公司`: 深圳金蝶国际软件集团有限公司  
+   `时间`: 2014年11月-2015年7月  
+   `职位`: iOS开发工程师  
   + 负责部落app从测试版本到正式上线版本的开发和需求迭代(后期)  
   + 负责云之家app的需求迭代(前期)
 
@@ -53,15 +53,15 @@
 5. 引入RAC做一些基础绑定效果 
 [花薪C](https://itunes.apple.com/cn/app/hua-xin/id1123416165?mt=8)
 [花薪闪借](https://itunes.apple.com/cn/app/花薪闪借/id1251255476?mt=8)(备注:独立借钱模块,重构流程)
-[花薪S](https://fir.im/huaxinSV2Test) (企业账户发布)
-`​项目职能：负责这三个App开发至上线的所有工作,包括但不限于:`
+[花薪S](https://fir.im/huaxinSV2Test) (企业账户发布)  
+`​项目职能：负责这三个App开发至上线的所有工作,包括但不限于:`  
 1. 构建项目的整体框架,数据层/网络层/工具/视图封装/VC storyboard/APNS
 2. 代码/版本管理及验收检查
 3. bug 修复
 4. 上线 AppStore
 5. 参与需求评审/审查/定型/再迭代,拆分模块,布置小组任务  
 
-[云之家]((https://itunes.apple.com/cn/app/yun-zhi-jia-mian-fei-yi-dong/id595672427?mt=8))(金蝶)  
+[云之家](https://itunes.apple.com/cn/app/yun-zhi-jia-mian-fei-yi-dong/id595672427?mt=8)(金蝶)  
 `项目职责: `  
 1. 负责云之家通讯录、定位签到等逻辑的实现重写
 2. 负责数据分享平台的业务逻辑
@@ -70,7 +70,7 @@
 5. 负责bug修复及日常维护
 
 
-[部落]((https://itunes.apple.com/cn/app/bu-luo-geng-hao-tuan-dui-xie/id946626039?mt=8))(金蝶)
+[部落](https://itunes.apple.com/cn/app/bu-luo-geng-hao-tuan-dui-xie/id946626039?mt=8)(金蝶)
 `项目职能`：  
 1. 增加share extension新特性,实现图片分享
 2. 增加类新浪微博的today extension新特性
@@ -80,7 +80,7 @@
 6. 优化微博主页性能
 
 
-[飞兔云传2.0]((https://itunes.apple.com/cn/app/fei-tu-yun-chuan/id929052456?mt=8))(中青宝, 前段时间被下架了)  
+[飞兔云传2.0](https://itunes.apple.com/cn/app/fei-tu-yun-chuan/id929052456?mt=8)(中青宝, 前段时间被下架了)  
 `技术要点：`
 1. 使用ALAssetLibrary,获取手机系统相片和视频，自定义展示出来；
 2. 使用Extension Today 实现类Clips 的widget；
