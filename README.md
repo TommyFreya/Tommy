@@ -7,10 +7,10 @@
 + `工作年限`: 5年
 + `手机`: 186-0198-2565
 + `邮箱`: tommyyaphetshu@163.com  
-+ `博客`:旧-新-简书  
++ `博客`:  旧-新-简书  
    http://blog.csdn.net/hmt20130412  
    http://www.hmttommy.com/  
-   http://www.jianshu.com/u/25bcb49275fa  
+   http://www.jianshu.com/u/25bcb49275fa
 
 ## 工作经历  
 1. `公司`: 深圳刷宝科技有限公司
@@ -41,7 +41,7 @@
 + 了解 java, 能够完成一些后台基本功能.  
 
 ## 技能树  
-![](http://upload-images.jianshu.io/upload_images/276027-63f356cb7e3e7bd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![jinengshu](http://7qn7zn.com1.z0.glb.clouddn.com/%20%E6%8A%80%E8%83%BD%E6%A0%91.png)  
 
 ## 主要项目  
 [淘金家](https://itunes.apple.com/cn/app/tao-jin-jia-wei-ku/id1048958774?mt=8) 
@@ -93,13 +93,9 @@
 9. iPad端大体相同，只是UI布局不同（略）
 
 ## 个人评价  
-1、对iOS开发有极高的热情，关注移动互联网发展趋势;
-2、工作认真、有耐心、有良好的执行力和较强的学习能力;
-3、有良好的沟通能力和团队合作意识，积极进取;
-4、爱代码, 更爱注释，对注释的感情深过代码本身
-5、有良好的审美能力，关注用户体验。  
-![img-w250](http://upload-images.jianshu.io/upload_images/276027-a3ad306fa5c32321?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
++ 对iOS开发有极高的热情，关注移动互联网发展趋势;
++ 工作认真、有耐心、有良好的执行力和较强的学习能力;
++ 有良好的沟通能力和团队合作意识，积极进取;
++ 爱代码, 更爱注释，对注释的感情深过代码本身
++ 有良好的审美能力，关注用户体验。  
+<center>![img-w250](http://7qn7zn.com1.z0.glb.clouddn.com/Tommy_Me)</center>
