@@ -7,10 +7,10 @@
 + `工作年限`: 5年
 + `手机`: 186-0198-2565
 + `邮箱`: tommyyaphetshu@163.com  
-+ `博客`:旧-新-简书     
-   http://blog.csdn.net/hmt20130412   
-   http://www.hmttommy.com/    
-   http://www.jianshu.com/u/25bcb49275fa  
++ `博客`:旧-新-简书  
+   http://blog.csdn.net/hmt20130412  
+   http://www.hmttommy.com/  
+   http://www.jianshu.com/u/25bcb49275fa  
 
 ## 工作经历  
 1. `公司`: 深圳刷宝科技有限公司
@@ -99,3 +99,7 @@
 4、爱代码, 更爱注释，对注释的感情深过代码本身
 5、有良好的审美能力，关注用户体验。  
 ![img-w250](http://upload-images.jianshu.io/upload_images/276027-a3ad306fa5c32321?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
