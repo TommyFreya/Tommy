@@ -8,9 +8,9 @@
 + `手机`: 186-0198-2565
 + `邮箱`: tommyyaphetshu@163.com  
 + `博客`:  
-   http://blog.csdn.net/hmt20130412(旧)  
-   http://www.hmttommy.com/(新)  
-   http://www.jianshu.com/u/25bcb49275fa(简书)
+   http://blog.csdn.net/hmt20130412 (旧)  
+   http://www.hmttommy.com/ (新)  
+   http://www.jianshu.com/u/25bcb49275fa (简书)
 
 ## 工作经历  
 1. `公司`: 深圳刷宝科技有限公司
