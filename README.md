@@ -44,8 +44,8 @@
 ![jinengshu](http://7qn7zn.com1.z0.glb.clouddn.com/%20%E6%8A%80%E8%83%BD%E6%A0%91.png)  
 
 ## 主要项目  
-[淘金家](https://itunes.apple.com/cn/app/tao-jin-jia-wei-ku/id1048958774?mt=8) 
-`项目职能：负责此App开发至上线的所有工作,包括但不限于:`
+[淘金家](https://itunes.apple.com/cn/app/tao-jin-jia-wei-ku/id1048958774?mt=8)  
+`项目职能：负责此App开发至上线的所有工作,包括但不限于:`  
 1. 构建项目框架—轻量级MVVM框架,设计业务层V-C-VM解耦
 2. 引入YTKRequest,采取策略模式,完成网络层设计 
 3. 负责所有图表的实现(采取PNChat)以及动画效果预研,研发
@@ -61,8 +61,8 @@
 4. 上线 AppStore
 5. 参与需求评审/审查/定型/再迭代,拆分模块,布置小组任务  
 
-[云之家]((https://itunes.apple.com/cn/app/yun-zhi-jia-mian-fei-yi-dong/id595672427?mt=8))(金蝶)
-`项目职责: `
+[云之家]((https://itunes.apple.com/cn/app/yun-zhi-jia-mian-fei-yi-dong/id595672427?mt=8))(金蝶)  
+`项目职责: `  
 1. 负责云之家通讯录、定位签到等逻辑的实现重写
 2. 负责数据分享平台的业务逻辑
 3. 负责新版本UI重改以及复杂UI的设计与预研
@@ -71,7 +71,7 @@
 
 
 [部落]((https://itunes.apple.com/cn/app/bu-luo-geng-hao-tuan-dui-xie/id946626039?mt=8))(金蝶)
-`项目职能`：
+`项目职能`：  
 1. 增加share extension新特性,实现图片分享
 2. 增加类新浪微博的today extension新特性
 3. 集成原生微信平台分享-登录功能
@@ -80,7 +80,7 @@
 6. 优化微博主页性能
 
 
-[飞兔云传2.0]((https://itunes.apple.com/cn/app/fei-tu-yun-chuan/id929052456?mt=8))(中青宝, 前段时间被下架了)
+[飞兔云传2.0]((https://itunes.apple.com/cn/app/fei-tu-yun-chuan/id929052456?mt=8))(中青宝, 前段时间被下架了)  
 `技术要点：`
 1. 使用ALAssetLibrary,获取手机系统相片和视频，自定义展示出来；
 2. 使用Extension Today 实现类Clips 的widget；
@@ -98,4 +98,4 @@
 + 有良好的沟通能力和团队合作意识，积极进取;
 + 爱代码, 更爱注释，对注释的感情深过代码本身
 + 有良好的审美能力，关注用户体验。  
-<center>![img-w250](http://7qn7zn.com1.z0.glb.clouddn.com/Tommy_Me)</center>
+![](http://7qn7zn.com1.z0.glb.clouddn.com/Tommy_Me)
