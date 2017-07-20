@@ -51,9 +51,10 @@
 2. 引入YTKRequest,采取策略模式,完成网络层设计 
 3. 负责所有图表的实现(采取PNChat)以及动画效果预研,研发
 4. 利用xctool与xcodebuild编写自动化打包脚本 
-5. 引入RAC做一些基础绑定效果 
-[花薪C](https://itunes.apple.com/cn/app/hua-xin/id1123416165?mt=8)
-[花薪闪借](https://itunes.apple.com/cn/app/花薪闪借/id1251255476?mt=8)(备注:独立借钱模块,重构流程)
+5. 引入RAC做一些基础绑定效果  
+
+[花薪C](https://itunes.apple.com/cn/app/hua-xin/id1123416165?mt=8)  
+[花薪闪借](https://itunes.apple.com/cn/app/花薪闪借/id1251255476?mt=8)(备注:独立借钱模块,重构流程)  
 [花薪S](https://fir.im/huaxinSV2Test) (企业账户发布)  
 `项目职能：负责这三个App开发至上线的所有工作,包括但不限于:` 
 1. 构建项目的整体框架,数据层/网络层/工具/视图封装/VC storyboard/APNS
