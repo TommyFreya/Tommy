@@ -7,10 +7,10 @@
 + `工作年限`: 5年
 + `手机`: 186-0198-2565
 + `邮箱`: tommyyaphetshu@163.com  
-+ `博客`:  
-   http://blog.csdn.net/hmt20130412 (旧)  
-   http://www.hmttommy.com/ (新)  
-   http://www.jianshu.com/u/25bcb49275fa (简书)
++ `博客`:旧-新-简书     
+   http://blog.csdn.net/hmt20130412   
+   http://www.hmttommy.com/    
+   http://www.jianshu.com/u/25bcb49275fa  
 
 ## 工作经历  
 1. `公司`: 深圳刷宝科技有限公司
@@ -29,7 +29,6 @@
   + 负责云之家app的需求迭代(前期)
 
 3. 深圳中青宝-魔盒项目部/2014年7月-2014年11月/负责飞兔云传项目2.0的整体全新开发/部门与集团矛盾,部门解散
-4. 北京云扬思海科技有限公司/2012年11月-2014年6月/     iOS实习+开发工程师  
 
 ## 专业技能  
 + 熟练Objective-C,熟悉Swift,具备良好的编程习惯和面向对象思想。  
